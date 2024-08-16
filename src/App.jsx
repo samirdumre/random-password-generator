@@ -99,6 +99,7 @@ function App() {
                     </div>
                 </div>
             </div>
+            <footer className={'text-white text-center font-semibold'}>&copy; Samir Dumre</footer>
         </>
     )
 }
